@@ -4,4 +4,4 @@ A repo for people that don't know how to use Arch, with scripts that automate th
 
 
 
-HOW TO USE IT
+HOW TO USE IT:
